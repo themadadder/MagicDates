@@ -1,0 +1,10 @@
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 8 - Magic Dates\Magic Dates\bin\Debug\Magic Dates.exe.config
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 8 - Magic Dates\Magic Dates\bin\Debug\Magic Dates.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 8 - Magic Dates\Magic Dates\bin\Debug\Magic Dates.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 8 - Magic Dates\Magic Dates\obj\Debug\Magic Dates.csproj.AssemblyReference.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 8 - Magic Dates\Magic Dates\obj\Debug\Magic_Dates.magicDates.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 8 - Magic Dates\Magic Dates\obj\Debug\Magic_Dates.Properties.Resources.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 8 - Magic Dates\Magic Dates\obj\Debug\Magic Dates.csproj.GenerateResource.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 8 - Magic Dates\Magic Dates\obj\Debug\Magic Dates.csproj.CoreCompileInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 8 - Magic Dates\Magic Dates\obj\Debug\Magic Dates.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 8 - Magic Dates\Magic Dates\obj\Debug\Magic Dates.pdb
